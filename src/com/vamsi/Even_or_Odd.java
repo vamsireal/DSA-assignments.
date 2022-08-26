@@ -2,7 +2,7 @@ package com.vamsi;
 
 import java.util.Scanner;
 
-public class Practice2 {
+public class Even_or_Odd {
     public static void main(String[] args) {
         System.out.println("Enter a number:");
         Scanner i = new Scanner(System.in);
