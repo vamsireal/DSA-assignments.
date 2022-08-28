@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d315e98b-f3fe-4bac-b2b8-093088403dca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Armstrong_google.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Currency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Even_or_Odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Interest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/vamsi/primitive.java" afterDir="false" />
+    <list default="true" id="d315e98b-f3fe-4bac-b2b8-093088403dca" name="Changes" comment="Even_or_Odd.java file added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vamsi/Even_or_Odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vamsi/Even_or_Odd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vamsi/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vamsi/Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/vamsi/primitive.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "project.propCompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="Greeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vamsi.Greeting" />
       <module name="java_practice" />
@@ -114,6 +100,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661251672164</updated>
     </task>
+    <task id="LOCAL-00001" summary="Even_or_Odd.java file added">
+      <created>1661525978297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661525978297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +120,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Even_or_Odd.java file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Even_or_Odd.java file added" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
