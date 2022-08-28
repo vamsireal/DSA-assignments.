@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d315e98b-f3fe-4bac-b2b8-093088403dca" name="Changes" comment="Currency.java file added" />
+    <list default="true" id="d315e98b-f3fe-4bac-b2b8-093088403dca" name="Changes" comment="Operators.java file added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661681456456</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Operators.java file added">
+      <created>1661681871399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661681871399</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Operators.java file added">
+      <created>1661681988557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661681988557</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,7 +148,9 @@
     <MESSAGE value="Even_or_Odd.java file added" />
     <MESSAGE value="Largest.java file added" />
     <MESSAGE value="Currency.java file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Currency.java file added" />
+    <MESSAGE value="Practice.java file added" />
+    <MESSAGE value="Operators.java file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Operators.java file added" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
